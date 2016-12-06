@@ -1,0 +1,5 @@
+C:\Users\Evan\Desktop\ANCS Demo\ANCS Demo.cydsn\ANCS Demo.cyprj|b592d76b-f71a-410a-802b-92666c1df17d
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|33195489-83af-4e22-b965-a1c44fca8295
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|cade13cc-8ddc-40a3-9877-e8bf72d85372
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|751abc45-8d4d-4b37-a1bd-6fb2c587823d
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|f1eae4be-8557-4246-a92f-682b741eb5b0
