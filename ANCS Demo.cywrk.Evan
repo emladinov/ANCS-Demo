@@ -259,6 +259,10 @@
 <v>ANCS Demo\ANCS Demo\PSoC 4 Architecture TRM</v>
 <v>ANCS Demo\ANCS Demo\PSoC 4200 BLE Family Datasheet</v>
 <v>ANCS Demo\ANCS Demo\System Reference Guide v4_20</v>
+<v>ANCS Demo\ANCS Demo\BLE_v1_20</v>
+<v>ANCS Demo\ANCS Demo\cy_isr_v1_70</v>
+<v>ANCS Demo\ANCS Demo\cy_pins_v2_10</v>
+<v>ANCS Demo\ANCS Demo\SCB_P4_v2_0</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>ANCS Demo</v>
@@ -266,6 +270,10 @@
 <v>ANCS Demo\ANCS Demo\PSoC 4 Architecture TRM</v>
 <v>ANCS Demo\ANCS Demo\PSoC 4200 BLE Family Datasheet</v>
 <v>ANCS Demo\ANCS Demo\System Reference Guide v4_20</v>
+<v>ANCS Demo\ANCS Demo\BLE_v1_20</v>
+<v>ANCS Demo\ANCS Demo\cy_isr_v1_70</v>
+<v>ANCS Demo\ANCS Demo\cy_pins_v2_10</v>
+<v>ANCS Demo\ANCS Demo\SCB_P4_v2_0</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStatesV2>

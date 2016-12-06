@@ -2,7 +2,7 @@
 --	Conversion of ANCS Demo.v to vh2:
 --
 --	Cypress Semiconductor - WARP Version 6.3 IR 41
---	Sun Dec 04 11:04:16 2016
+--	Mon Dec 05 23:59:11 2016
 --
 
 USE cypress.cypress.all;

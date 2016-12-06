@@ -1,5 +1,5 @@
-C:\Users\Evan\Desktop\ANCS Demo\ANCS Demo.cydsn\ANCS Demo.cyprj|b592d76b-f71a-410a-802b-92666c1df17d
-C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|33195489-83af-4e22-b965-a1c44fca8295
-C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|cade13cc-8ddc-40a3-9877-e8bf72d85372
-C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|751abc45-8d4d-4b37-a1bd-6fb2c587823d
-C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|f1eae4be-8557-4246-a92f-682b741eb5b0
+C:\Users\Evan\Documents\GitHub\ANCS-Demo\ANCS Demo.cydsn\ANCS Demo.cyprj|485c4b41-f44f-47d6-9d17-2b07fa7577ff
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|39a5e123-6e5d-4d68-8664-920395558df4
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|72f51be2-8b0d-4df7-8117-be4ba62d1114
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|41d1cf77-9f57-4d62-9415-b53656c2f202
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|c0ac8956-b535-4268-b79e-d4588400ca00
